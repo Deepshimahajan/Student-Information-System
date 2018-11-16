@@ -1,7 +1,7 @@
-Heroku app link: https://lit-bayou-79689.herokuapp.com/home
+Heroku app link: https://secure-lowlands-44950.herokuapp.com/
 
-Username: Admin
-Password: COEN278
+Username: u
+Password: p
 COEN 278: Sinatra Assignment
 
 Submitted By: Deepshi Mahajan
