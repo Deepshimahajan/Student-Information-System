@@ -1,0 +1,12 @@
+<label>
+  Name:
+  <input type="text" patten=".{1,}" required title="1 character minimum" minlength="1" name=comment[personname] value=<%= @comment.personname %>>
+</label>
+<br>
+<label>
+  Content:
+    <input type="text" patten=".{5,}" required title="5 characters minimum" minlength="5" name=comment[content] value=<%= @comment.content %>>
+</label>
+<br>
+<input type="submit" name="save" value="Save">
+<a href="/">Cancel</a>
